@@ -1,0 +1,24 @@
+Sistema Gestor de Documentos (DocuAsmat)
+Descripción
+DocuAsmat es un sistema desarrollado en Java que facilita la gestión y organización de documentos en un entorno profesional. Permite el registro de usuarios, inicio de sesión y administración de documentos con funcionalidades de búsqueda avanzada.
+
+Características principales
+Registro e inicio de sesión de usuarios
+Administración de documentos
+Búsqueda y filtrado de documentos
+Detalles técnicos
+Lenguaje de Programación: Java
+Arquitectura: MVC (Model-View-Controller)
+Gestor de Base de Datos: MySQL
+Nombre de la BD: docu_Asmat
+Librerías Utilizadas
+MySQL Connector/J: Para la conexión con la base de datos MySQL
+JDateChooser: Para la selección de fechas en la interfaz
+Java Swing: Para la creación de interfaces gráficas de usuario (GUI)
+Requisitos
+Java JDK 11 o superior
+Servidor MySQL
+IDE compatible con Java (recomendado: NetBeans o IntelliJ IDEA)
+
+
+
