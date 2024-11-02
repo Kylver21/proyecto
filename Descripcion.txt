@@ -1,0 +1,9 @@
+Sistema Gestor de Documentos:
+
+Lenguaje e Programación: Java
+Gestor de base de datos: MySQL
+Nombre de BD: docu_Asmat
+
+Librerias:
+-Apache POI versión ( )
+
